@@ -4,7 +4,7 @@
 ## Sobre o projeto 🔍
 
 <p align="center">
-  Aplicativo mobile desenvolvido em **React Native** que exibe os times com mais títulos no Campeonato Paulista, ordenados do maior para o menor campeão.  
+  Aplicativo mobile desenvolvido em React Native que exibe os times com mais títulos no Campeonato Paulista, ordenados do maior para o menor campeão.  
 </p>
 
 ## Funcionalidades ✨
@@ -12,9 +12,9 @@
 🏠 **Página Home**: Tela inicial com um botão para acessar a lista de campeões.  
 
 📜 **Lista de Campeões**:  
-- Exibe os times em ordem decrescente de títulos.  
-- Mostra **nome**, **imagem** e **quantidade de títulos** de cada clube.  
-- Botão para voltar à Home.  
+Exibe os times em ordem decrescente de títulos.  
+Mostra **nome**, **imagem** e **quantidade de títulos** de cada clube.  
+Botão para voltar à Home.  
 
 🔄 **Navegação Simples**: Fluxo intuitivo entre as telas.  
 
