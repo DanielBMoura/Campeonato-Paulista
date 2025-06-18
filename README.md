@@ -13,7 +13,8 @@
 
 📜 **Lista de Campeões**:  
 Exibe os times em ordem decrescente de títulos.  
-Mostra **nome**, **imagem** e **quantidade de títulos** de cada clube.  
+Mostra **nome**, **imagem** e **quantidade de títulos** de cada clube. 
+Botão de Ver mais, para ver todos os campeões.  
 Botão para voltar à Home.  
 
 🔄 **Navegação Simples**: Fluxo intuitivo entre as telas.  
